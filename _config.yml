@@ -1,11 +1,11 @@
 # Site settings
 author: Henry Alpert
-title: 
+title: The Plural of Datum Is Data
 header-img: img/home-bg.png
 email: halpert3@gmail.com
 copyright_name: Henry Alpert
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Working Through the Flatiron Data Science Course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  halpert3
